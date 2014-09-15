@@ -1,7 +1,9 @@
 forget-me
 =========
 
-A Mobile Service that periodically deletes older posts on social networks
+A Mobile Service that periodically deletes older posts on social networks.
+
+Internet does not forget but people change over time and their opinions do not always remain the same. In real life, we talk, we forget and move on with life. On internet however whatever we say, stays attributed to us until deleted.
 
 ### Get Started ###
 
